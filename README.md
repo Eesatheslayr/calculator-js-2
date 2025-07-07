@@ -1,1 +1,1 @@
-# calculator-js-2
+This is my second calculator app im building using javascript. Im building it again to revise and use different methods and functions. Im building it as part of a free course im doing through FNB app academy.
